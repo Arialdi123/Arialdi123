@@ -48,6 +48,9 @@
   <a href="https://github.com/Arialdi123">
     <img src="https://img.shields.io/badge/GitHub-Arialdi123-black?style=for-the-badge&logo=github">
   </a>
+<a href="https://instagram.com/_arialdi">
+  <img src="https://img.shields.io/badge/Instagram-@_arialdi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 </p>
 
 ---
