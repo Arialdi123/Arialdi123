@@ -1,5 +1,6 @@
 ![Banner](img/github-header-banner.png)
-<h1 align="center">Halo 👋, Saya Arialdi Manday</h1>
+
+<h1 align="center">Halo, Saya Arialdi Manday</h1>
 
 <p align="center">
   🎓 Mahasiswa 2024 <b>Fasilkom-TI, Universitas Sumatera Utara</b><br>
@@ -34,11 +35,6 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arialdi123/Arialdi123/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-
----
-
-
 
 ---
 
