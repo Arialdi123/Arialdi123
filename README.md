@@ -2,7 +2,7 @@
 <h1 align="center">Halo 👋, Saya Arialdi Manday</h1>
 
 <p align="center">
-  🎓 Mahasiswa Informatika <b>Fasilkom-TI, Universitas Sumatera Utara</b><br>
+  🎓 Mahasiswa 2024 <b>Fasilkom-TI, Universitas Sumatera Utara</b><br>
   🚀 Sedang berkembang di bidang Web Development & Data
 </p>
 
@@ -42,7 +42,7 @@
 
 ---
 
-## �📫 Hubungi Saya
+## �📫 Sosial Media
 
 <p align="center">
   <a href="https://github.com/Arialdi123">
