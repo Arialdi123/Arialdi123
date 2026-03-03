@@ -53,7 +53,7 @@
   <a href="https://github.com/Arialdi123">
     <img src="https://img.shields.io/badge/GitHub-Arialdi123-black?style=for-the-badge&logo=github">
   </a>
-<a href="https://tiktok.com/@makmoyyy12">
+<a href="https://tiktok.com/@makmoyy12">
   <img src="https://img.shields.io/badge/TikTok-@makmoyy12-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 <a href="https://instagram.com/_arialdi">
