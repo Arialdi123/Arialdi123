@@ -37,6 +37,15 @@
 </p>
 
 ---
+### My GitHub Stats:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arialdi123&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aldrvk&theme=dark&hide_border=true"  />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arialdi123&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=dark&count_private=true" alt="aldrvk" width="420"/>
+</p>
 
 ## �📫 Sosial Media
 
