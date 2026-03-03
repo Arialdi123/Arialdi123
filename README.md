@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Banner](img/github-header-banner.png)
 <h1 align="center">Halo 👋, Saya Arialdi Manday</h1>
 
@@ -26,7 +25,7 @@
 
 ---
 
-## 📊 Aktivitas GitHub
+## 📊 Game PacMan
 
 <p align="center">
   <picture>
@@ -36,13 +35,14 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arialdi123/Arialdi123/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
-## 📫 Hubungi Saya
+
+
+---
+
+## �📫 Hubungi Saya
 
 <p align="center">
   <a href="https://github.com/Arialdi123">
@@ -56,9 +56,10 @@
 ---
 
 <p align="center">
-  ✨ “Konsisten lebih penting daripada sekadar semangat sesaat.” ✨
-</p>###
+  ✨ “tugas kami hanya menjadi orang baik, bukan terlihat seperti orang.” ✨
+</p>
+<p align="center">
+  ✨ “sebaik baik manusia adalah manusia yang bermanfaat bagi orang baik” ✨
+</p>
 
-<img src="https://raw.githubusercontent.com/Arialdi123/Arialdi123/output/snake.svg" alt="Snake animation" />
 
-###
